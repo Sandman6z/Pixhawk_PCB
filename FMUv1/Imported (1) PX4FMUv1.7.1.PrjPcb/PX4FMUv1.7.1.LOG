@@ -1,0 +1,11 @@
+Importer Log Report
+Project : PX4FMUv1.7.1.PrjPcb
+
+Section : Analyze Document - D:\Quadcopter\Pixhawk\Hardware\FMUv1\PX4FMUv1.7.1.brd
+    Analyzing data of D:\Quadcopter\Pixhawk\Hardware\FMUv1\PX4FMUv1.7.1.brd
+    Load settings
+    Load layers 105
+    Load board
+    Load Library "pixhawk2"
+    Load Packages 35
+EndSection
